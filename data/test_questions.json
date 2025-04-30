@@ -1,0 +1,83 @@
+[
+    {
+      "q": "What are the main modalities of CRRT mentioned in the 'Core Concepts in Dialysis' textbook?",
+      "a": "CVVH, CVVHD, and CVVHDF"
+    },
+    {
+      "q": "Which anticoagulant is preferred for regional anticoagulation in CRRT and why?",
+      "a": "Citrate, due to lower bleeding risks and targeted anticoagulation"
+    },
+    {
+      "q": "In CARPEDIEM systems, what is the minimum patient weight requirement?",
+      "a": "2.5 kg"
+    },
+    {
+      "q": "According to the Aquarius IFU, what is the maximum recommended blood flow rate for adult CRRT?",
+      "a": "200 mL/min"
+    },
+    {
+      "q": "What safety feature does Prismaflex provide during power failure?",
+      "a": "Automatic clamp and circuit alarm with therapy pause"
+    },
+    {
+      "q": "What is one key difference between Prismaflex and Prismax as stated in their operator manuals?",
+      "a": "Prismax offers improved user interface and customizable therapy settings"
+    },
+    {
+      "q": "Describe how citrate works as an anticoagulant during CRRT.",
+      "a": "Citrate chelates calcium, preventing clotting in the extracorporeal circuit"
+    },
+    {
+      "q": "What is one critical hemodynamic benefit of CRRT compared to intermittent hemodialysis?",
+      "a": "Reduced risk of hypotension due to gradual fluid removal"
+    },
+    {
+      "q": "From the KAMC CRRT training material, what is the recommended circuit change interval?",
+      "a": "Every 72 hours"
+    },
+    {
+      "q": "How is CRRT dose typically prescribed?",
+      "a": "Effluent flow rate of 20–25 mL/kg/h"
+    },
+    {
+      "q": "Which device is described in the 'Fresenius MultiFiltrate Service Manual' as having automatic bubble detectors?",
+      "a": "MultiFiltrate PRO"
+    },
+    {
+      "q": "What does ECMO add to CRRT, according to ISCCM guidelines?",
+      "a": "Support for patients with both respiratory and renal failure"
+    },
+    {
+      "q": "What parameter is used to assess filter clotting risk in citrate anticoagulation?",
+      "a": "Ionized calcium level"
+    },
+    {
+      "q": "From the 'Mechanisms of Hemodynamic Instability' paper, what contributes to hypotension in CRRT?",
+      "a": "Rapid fluid shifts and cytokine removal"
+    },
+    {
+      "q": "What setting determines ultrafiltration rate in CRRT machines?",
+      "a": "Transmembrane pressure"
+    },
+    {
+      "q": "Why is pediatric CRRT challenging according to the CARPEDIEM clinical guide?",
+      "a": "Low blood volume and narrow margin for error"
+    },
+    {
+      "q": "What is the main function of dialysate in CVVHD?",
+      "a": "Solute removal by diffusion"
+    },
+    {
+      "q": "How frequently should access site be assessed during CRRT?",
+      "a": "Every 4 hours"
+    },
+    {
+      "q": "Which guideline recommends individualized CRRT prescription?",
+      "a": "KDIGO"
+    },
+    {
+      "q": "What are the common alarms in CRRT machines like Prismaflex?",
+      "a": "Pressure alarms, air detection, blood leak alarms"
+    }
+  ]
+  

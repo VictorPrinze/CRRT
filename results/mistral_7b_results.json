@@ -1,0 +1,38 @@
+[
+    {
+        "query": "Which anticoagulant is preferred for regional anticoagulation in CRRT and why?",
+        "answer": "Regional citrate anticoagulation is the preferred method for anticoagulation in CRRT due to its effectiveness in reducing filter clotting time and nearly eliminating the risk of bleeding. It",
+        "expected_answer": "Citrate, due to lower bleeding risks and targeted anticoagulation",
+        "is_correct": false,
+        "context": [
+            "Advantages\nRegional citrate anticoagulation is now becoming the preferred method of anticoagulation in \nCRRT, as it effectively reduces filter clotting time\n24",
+            "23\n Use of \nregional anticoagulation nearly eliminates the risk of bleeding. And hence CRRT is now the",
+            "ANTICOAGULANTS FOR CRRT \nAn ideal anticoagulant is one which is easily available, user friendly, safe to use, prolongs",
+            "8.4  Which Anticoagulation?\nThe anticoagulation procedure of choice is regional citrate antico -\nagulation. It is easily controllable, does not affect the patient\u2019s",
+            "no anticoagulation. A regional citrate anticoagulation can be applied where appropriate.",
+            "\u25a0Important goal is to choose appropriate anticoagulation method most suitable to minimize",
+            "are commonly used for systemic anticoagulation in patients on CRRT. Most studies employ \nadequate doses and stringent protocols to avoid complications and ensure for effective \noutcomes. \nHeparin",
+            "resistance, and bleeding. \n \u25a0Appropriate anticoagulation in CRRT plays an important role in determining the efficacy",
+            "anticoagulants for\u00a0CRRT\nAnticoagulants can delay or prevent circuit clotting. However, they increase the \nrisk of bleeding. Therefore, their use should be based on a careful assessment",
+            "been evaluated for anticoagulation in CRRT. These are preferred in patients with suspected or \ndocumented HIT. \nArgatroban :\n14-16"
+        ]
+    },
+    {
+        "query": "How is CRRT dose typically prescribed?",
+        "answer": "CRRT dose is typically prescribed",
+        "expected_answer": "Effluent flow rate of 20\u201325 mL/kg/h",
+        "is_correct": false,
+        "context": [
+            "Dosage/prescription :\n \u25a0In clinical practice, the \u201cdose\u201d of CRRT is the effluent flow rate (i.e. ultrafiltrate + dialysate).",
+            "The main prescription parameters for a CRRT treatment are as follows:",
+            "to achieve rapid therapeutic levels.\nSummary of\u00a0Drug Dosing in\u00a0CRRT\nDrug dosing during CRRT is complicated. The important variables for consid -",
+            "DRUG DOSING CONSIDERATIONS\nGeneral Principles\nDrug dosing in CRRT may be based on the following methods:\n1. Clinical studies\n2. Total creatinine clearance approach\n3. Therapeutic drug monitoring",
+            "for dosing may be applied to other drugs as\u00a0well.\nCRRT Properties\nAs discussed in Chapters\u00a010 and 12, CRRT can be applied using various tech -",
+            "is not true in clinical practice.\nSUMMARY\nDrug dosing in CRRT is a complex phenomenon. Close monitoring of drugs, wherever possible,",
+            "CRRT dose\nSoftware computes two indicators of the CRRT treatment dose, in\nml/kg/h, as a function of flow rate settings and patient body weight.",
+            "\u25a0Selenium : 100 \u03bcg/day in patients on CRRT (one and half times the normal daily dose in \nother patients).",
+            "It also undergoes reabsorption in kidneys to a large extent. It, therefore, requires dosage \nmodification in patients on CRRT.\n12\n The dosage of 800 mg/day is appropriate in patients",
+            "30 mL/ kg/ h, to achieve the dose goal despite multiple discontinuations in \nCRRT treatment (such as discontinuations due to system clotting, tests, or \nsurgical procedures)."
+        ]
+    }
+]
